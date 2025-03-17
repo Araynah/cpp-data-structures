@@ -7,7 +7,7 @@ This program demonstrates **Templates & Inheritance** by implementing:
 ✔️ **Base Class `MiniList`** - Stores up to 10 dynamic elements  
 
 ## 📂 File Structure  
-- `main.cpp` → Driver program **(DO NOT MODIFY)**  
+- `main.cpp` → Driver program 
 - `minilist.h / minilist.cpp` → Base class `MiniList`  
 - `miniqueue.h / miniqueue.cpp` → Derived class `MiniQueue`  
 - `ministack.h / ministack.cpp` → Derived class `MiniStack`  
