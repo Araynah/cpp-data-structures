@@ -1,6 +1,5 @@
 /***********************************
  * Program 03
- * Written by Mark M Bowman
  ***********************************/ 
 
 #include <iostream>

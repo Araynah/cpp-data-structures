@@ -1,6 +1,6 @@
 /***************************************
  * Linked List Function Declarations
- * Written by YOUR NAME GOES HERE
+ * Written by Araynah Dover
  ***************************************/
 #include <iostream>
 #include <iomanip>
