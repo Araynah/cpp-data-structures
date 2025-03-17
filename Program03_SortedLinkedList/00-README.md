@@ -8,7 +8,7 @@ This program implements a **Sorted Linked List** using a `Node` class.
 ✔️ **Forward & Reverse Traversal**  
 
 ## 📂 File Structure  
-- `main.cpp` → Driver program **(DO NOT MODIFY)**  
+- `main.cpp` → Driver program 
 - `node.h / node.cpp` → Defines the `Node` class  
 - `list.h / list.cpp` → Manages linked list operations  
 
