@@ -7,7 +7,7 @@ This program implements a **Binary Search Tree (BST)** to store and retrieve val
 ✔️ **Display values in sorted order (Inorder traversal - LMR)**  
 
 ## 📂 File Structure  
-- `main.cpp` → Driver program **(DO NOT MODIFY)**  
+- `main.cpp` → Driver program
 - `tree.h / tree.cpp` → Manages the `BinarySearchTree` class  
 - `node.h / node.cpp` → Defines `Node` class (stores value & child pointers)  
 
