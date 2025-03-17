@@ -15,7 +15,7 @@ This repository contains coursework and projects related to **Data Structures & 
 
 ## 🛠️ Technologies Used  
 - **Language:** C++  
-- **Development Tools:** VS Code, CLion, GCC  
+- **Development Tools:** VS Code 
 - **Version Control:** Git & GitHub  
 
 📌 Check out my implementations of fundamental data structures and algorithms!  
