@@ -7,7 +7,7 @@ This program builds a **Directed Graph** using an adjacency list.
 ✔️ **Find Shortest Path (Greedy Algorithm)**  
 
 ## 📂 File Structure  
-- `main.cpp` → Driver program **(DO NOT MODIFY)**  
+- `main.cpp` → Driver program 
 - `graph.h / graph.cpp` → Manages `Graph` class  
 - `node.h / node.cpp` → Defines `Node` class (each graph node)  
 - `edge.h / edge.cpp` → Defines `Edge` class (connections between nodes)  
