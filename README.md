@@ -118,4 +118,4 @@ g++ -o output main.cpp
 
 ---
 
-*Michigan State University | CSE Data Structures & Algorithms coursework*
+*Michigan State University & Lansing Community College | CSE Data Structures & Algorithms coursework*
